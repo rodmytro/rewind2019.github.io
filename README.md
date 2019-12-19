@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 Vlad Solomakha built the Rewind 2019 app as a Free app. This SERVICE is provided by Vlad Solomakha at no cost and is intended for use as is.
 
